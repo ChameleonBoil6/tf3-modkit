@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/ChameleonBoil6/tf3-modkit/releases/download/v1.0.0/TransportFever3_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20tf3--tycoon--trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
@@ -153,7 +153,7 @@ Game:    Transport Fever 3 (latest Steam version)
 
 <div align="center">
 
-<a href="YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/ChameleonBoil6/tf3-modkit/releases/download/v1.0.0/TransportFever3_Trainer_v1.0.zip">
   <img src="https://img.shields.io/badge/⬇%20%20DOWNLOAD%20%20tf3--tycoon--trainer%20v1.0%20%20⬇-28a745?style=for-the-badge&logoColor=white&labelColor=1a1a1a&color=28a745" height="52"/>
 </a>
 
