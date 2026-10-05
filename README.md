@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://github.com/ChameleonBoil6/tf3-modkit/releases/download/v1.0.0/TransportFever3_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD-tf3--tycoon--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
+<a href="https://github.com/ChameleonBoil6/tf3-modkit/releases/download/v1.1/TransportFever3_Trainer_v1.1.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD-tf3--tycoon--trainer_v1.1-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 
 ## Installation
 
-> **Step 1** — Download `TF3_Trainer_v1.0` using the button above and extract the archive to any folder
+> **Step 1** — Download `TF3_Trainer_v1.1` using the button above and extract the archive to any folder
 
 > **Step 2** — Run `TransportFever3_Trainer_Installer` to launch the installer
 
@@ -153,8 +153,8 @@ Game:    Transport Fever 3 (latest Steam version)
 
 <div align="center">
 
-<a href="https://github.com/ChameleonBoil6/tf3-modkit/releases/download/v1.0.0/TransportFever3_Trainer_v1.0.zip">
-  <img src="https://img.shields.io/badge/DOWNLOAD-tf3--tycoon--trainer_v1.0-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
+<a href="https://github.com/ChameleonBoil6/tf3-modkit/releases/download/v1.1/TransportFever3_Trainer_v1.1.zip">
+  <img src="https://img.shields.io/badge/DOWNLOAD-tf3--tycoon--trainer_v1.1-28a745?style=for-the-badge&logo=github&logoColor=white" height="52"/>
 </a>
 
 
